@@ -30,3 +30,18 @@ Puoi installarle eseguendo:
 
 ```bash
 pip install -r requirements.txt
+
+Configurazione
+Ottieni le credenziali di Google API: Vai alla Google Cloud Console e crea un progetto. Abilita l'API YouTube Data v3 e ottieni il file client_secrets.json.
+
+Configura il progetto: Inserisci il file client_secrets.json nella cartella del progetto.
+
+Esegui lo script: Avvia lo script Python per caricare i video. La prima volta dovrai autenticarti nel tuo account Google tramite un browser.
+
+Autore
+Glideraiscript (https://github.com/glideraiscript)
+
+App utilizzata a scopo personale per automatizzare l'upload di contenuti su YouTube.
+
+Licenza
+Distribuito sotto la licenza MIT. Vedi LICENSE per maggiori dettagli
