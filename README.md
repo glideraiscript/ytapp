@@ -27,8 +27,6 @@ Questa applicazione utilizza l'API di YouTube per automatizzare il processo di c
   - `pytz`
   
 Puoi installarle eseguendo:
-
-```bash
 pip install -r requirements.txt
 
 Configurazione
@@ -39,7 +37,7 @@ Configura il progetto: Inserisci il file client_secrets.json nella cartella del 
 Esegui lo script: Avvia lo script Python per caricare i video. La prima volta dovrai autenticarti nel tuo account Google tramite un browser.
 
 Autore
-Glideraiscript (https://github.com/glideraiscript)
+Glideraiscript (https://glideraiscript.github.io/ytapp/)
 
 App utilizzata a scopo personale per automatizzare l'upload di contenuti su YouTube.
 
